@@ -1,38 +1,73 @@
 {
     "P001": 
         {
-        "id": 1,
         "name": "John Doe",
-        "age": 30
+        "age": 30,
+        "gender" : "Male",
+        "city" : "GZB",
+        "weight" : 25,
+        "bmi" : 1,
+        "verdict" : "Obese",
+        "height" : 168
         },
     "P002": 
         {
-        "id": 2,
         "name": "John MArk",
-        "age": 30
+        "age": 30,
+        "gender" : "Male",
+         "city" : "GZB",
+        "weight" : 65,
+        "bmi" : 2.3,
+        "verdict" : "Obese",
+        "height" : 215
+
         },
     "P003": 
         {
-        "id": 3,
         "name": "John",
-        "age": 30
+        "age": 30,
+        "gender" : "Male",
+         "city" : "GZB",
+        "weight" : 20,
+        "bmi" : 2,
+        "verdict" : "Obese",
+        "height" : 145
+
         },
     "P004": 
         {
-        "id": 5,
         "name": " Doe",
-        "age": 30
+        "age": 30,
+        "gender" : "Male",
+         "city" : "GZB",
+        "weight" :210,
+        "bmi" : 23,
+        "verdict" : "Obese",
+        "height" : 185
+
         },
     "P005": 
         {
-        "id": 5,
         "name": "Quids",
-        "age": 30
+        "age": 30,
+        "gender" : "Female",
+         "city" : "GZB",
+        "weight" : 90,
+        "bmi" : 2.9,
+        "verdict" : "Obese",
+        "height" : 170
+
         },
     "P006": 
         {
-        "id": 6,
         "name": "Skoijkn",
-        "age": 30
+        "age": 30,
+        "gender" : "Male",
+         "city" : "GZB",
+        "weight" : 56,
+        "bmi" : 2.5,
+        "verdict" : "Obese",
+        "height" : 175
+
         }
 }
